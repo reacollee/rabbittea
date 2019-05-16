@@ -347,6 +347,16 @@ ul.simple-toggle li a:hover { color:#3C5A65;}
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
 }
+.span_3_of_3 {
+	width:25.8%;
+	padding:10; 
+}
+.span_3_of_3 img {
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+}
 .span_3_of_2 {
 	width:70.2%;
 	padding:0; 
